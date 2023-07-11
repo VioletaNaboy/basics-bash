@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/5ae62fcf252e66d44d00008e/train/shell
+#https://www.codewars.com/kata/5ae62fcf252e66d44d00008e/train/shell
 
 a=$1
 b=$2
